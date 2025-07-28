@@ -9,22 +9,22 @@ const questions = [
     '11',
     '54',
   ]),
-    QuizQuestion('Questin 2', [
-    'answer 1',
-    'answer 2',
-    'answer 3',
-    'answer 4',
+    QuizQuestion('What is the result of 11 - 5?', [
+    '6',
+    '44',
+    '7',
+    '3',
   ]),
-    QuizQuestion('Questin 3', [
-    'answer 1',
-    'answer 2',
-    'answer 3',
-    'answer 4',
+    QuizQuestion('What is the result of 22 - 20?', [
+    '2',
+    '7',
+    '23',
+    '13',
   ]),
-    QuizQuestion('Questin 4', [
-    'answer 1',
-    'answer 2',
-    'answer 3',
-    'answer 4',
+    QuizQuestion('What is the result of 5 + 12?', [
+    '17',
+    '13',
+    '7',
+    '21',
   ]),
 ];
